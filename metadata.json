@@ -1,0 +1,6 @@
+{
+  "name": "Elite Tech Recruiter & Resume Auditor",
+  "description": "An interactive, AI-driven technical resume audit-and-fix workstation simulating an elite tech recruiter's review under time pressure, with inline highlights, brutal roasts, and ATS analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
